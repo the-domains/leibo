@@ -2,6 +2,7 @@ name: leibo
 favicon: null
 layout_spectrum: 0.19013609737157822
 typography_spectrum: 0.25062426016665995
+title: Leibo
 cta:
   domain: null
   bucket: null
