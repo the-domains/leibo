@@ -1,7 +1,7 @@
-name: leibo
+name: Leibo
 favicon: null
-layout_spectrum: 0.19013609737157822
-typography_spectrum: 0.25062426016665995
+layout_spectrum: 0.25358
+typography_spectrum: 0.90839
 title: Leibo
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.455966183450073
+    - '#281f18'
+    - '#bbb8b1'
+    - '#7c523a'
+    - '#967353'
+    - '#e5e6e1'
+  brandStrength: 0
   lightness: 0.8842448126524687
   saturation: 0.6905633104033768
   rhythmicContrast: 0.698808460496366
